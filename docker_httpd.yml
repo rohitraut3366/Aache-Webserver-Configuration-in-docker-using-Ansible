@@ -45,8 +45,15 @@
              name: "httpd"
              source: pull
              state: present
+             
+      - name: "Adding firewall rule"
+        firewalld:
+            immediate: yes
+            permanent: true
+            port: "8081/tcp"
+            state: enabled         
       
-      - name: "mas"       
+      - name: "masquerade"       
         firewalld:
               masquerade: enable
               zone: public

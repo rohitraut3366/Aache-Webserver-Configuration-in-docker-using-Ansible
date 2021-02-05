@@ -19,7 +19,7 @@ The playbook can consist of multiple plays and each play is an ordered set of ta
 ```
 # Pre-requisite:
 1. Ansible should be installed in Node and this node is called a Controller Node. for installation refer the above article.
-#TO see the version of ansible Installed
+# To see the version of ansible Installed
 ```
 ansible --version
 ```

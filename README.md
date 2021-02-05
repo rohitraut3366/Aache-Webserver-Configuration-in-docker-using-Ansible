@@ -1,6 +1,6 @@
 # Aache-Webserver-Configuration-in-docker-using-Ansible
 
-# [ Ansible Basic ](https://rohitraut3366.medium.com/-9840b4f8bea7)
+# [ Ansible Basics ](https://rohitraut3366.medium.com/-9840b4f8bea7)
 
 # [ Docker Installation ](https://rohitraut3366.medium.com/how-to-install-docker-on-centos-8-rhel-8-bc626591410)
 
